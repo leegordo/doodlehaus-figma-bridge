@@ -15,6 +15,7 @@
       "localhost:*",
       "127.0.0.1:*",
       "leegordo.github.io"
-    ]
+    ],
+    "reasoning": "The plugin fetches DoodleHaus design JSON from external URLs and loads image assets referenced in generated designs."
   }
 }
