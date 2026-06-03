@@ -13,7 +13,6 @@
     ],
     "devAllowedDomains": [
       "http://localhost",
-      "http://127.0.0.1",
       "https://leegordo.github.io"
     ],
     "reasoning": "The plugin fetches DoodleHaus design JSON from external URLs and loads image assets referenced in generated designs."
